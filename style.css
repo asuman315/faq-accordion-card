@@ -88,7 +88,6 @@ body, html {
 .faq-item-qn.open p {
     font-weight: 700;
     color: hsl(240, 73%, 65%);
-    transition: 500ms ease-in;
     margin: 0;
 }
 
